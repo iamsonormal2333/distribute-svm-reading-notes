@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.10.11)  12 OCT 2019 17:25
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.10.11)  14 OCT 2019 17:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -543,7 +543,7 @@ Overfull \hbox (61.5376pt too wide) in paragraph at lines 11--12
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 29.
 
-[2] (./data-parallel.aux)
+[2] [3] (./data-parallel.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -552,10 +552,10 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  16885 strings out of 492916
  391654 string characters out of 6133344
- 460395 words of memory out of 5000000
+ 462395 words of memory out of 5000000
  20821 multiletter control sequences out of 15000+600000
  537632 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,6n,74p,426b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on data-parallel.pdf (2 pages).
+Output written on data-parallel.pdf (3 pages).
